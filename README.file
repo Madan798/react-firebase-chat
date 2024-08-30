@@ -1,0 +1,28 @@
+git clone https://github.com/safak/react-firebase-chat.git
+
+install libraries
+npm i 
+
+to run the local host 
+npm run dev
+
+/*
+example output 
+madhankumarsuthapalli@Madhans-MacBook-Air Scure-Chat-Application % npm run dev
+
+> chat-starter@0.0.0 dev
+> vite
+
+
+  VITE v5.4.0  ready in 327 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+*/
+
+
+open index.css
+set app background in body 
+
